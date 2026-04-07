@@ -16,7 +16,7 @@ Model training
 Price prediction
 
 #Usage
-git clone https://github.com/your-username/flight-price-prediction.git
+git clone https://github.com/06ksworld-alt/flight-price-prediction.git
 cd flight-price-prediction
 pip install -r requirements.txt
 python app.py
