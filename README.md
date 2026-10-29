@@ -5,18 +5,18 @@ This project predicts flight ticket prices using Machine Learning based on featu
 
 #Tech Stack
 Python
-Pandas, NumPy
-Scikit-learn
+Pandas, NumPy,
+Scikit-learn,
 Matplotlib / Seaborn
 
 #Features
-Data preprocessing & EDA
-Feature engineering
-Model training
+Data preprocessing & EDA,
+Feature engineering,
+Model training,
 Price prediction
 
 #Models Used
-Linear Regression
+Linear Regression,
 Random Forest
 
 #Note
